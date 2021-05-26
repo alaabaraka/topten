@@ -2,7 +2,7 @@
 1. Welcome Message for the User
 2. Ask the user six questions?
 3. Keep asking 
-
+*/
 console.log('wellcome to my web siet');
 let Name = prompt('whats your name');
 console.log(Name);
@@ -56,7 +56,7 @@ function color() {
     }
 }
 color();
-*/
+
 let guessAge = prompt('how many years i have?');
 
 for (let x = 0; x < 4; x++) {
